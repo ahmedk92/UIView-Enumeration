@@ -1,11 +1,3 @@
-//
-//  UIView+Enumeration.m
-//  Quran
-//
-//  Created by Arabia -IT on 1/17/17.
-//  Copyright © 2017 Arabia For Information Technology. All rights reserved.
-//
-
 #import "UIView+Enumeration.h"
 
 @implementation UIView (Enumeration)
